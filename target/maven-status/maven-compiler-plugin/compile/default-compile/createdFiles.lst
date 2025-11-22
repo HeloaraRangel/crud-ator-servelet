@@ -1,0 +1,9 @@
+Controller\ListarAtores.class
+Utils\ConexaoHibernate.class
+com\mycompany\locadora_entrega0\resources\JakartaEE10Resource.class
+Controller\ExcluirAtor.class
+Model\Application\AplCadastrarAtor.class
+Controller\CadastrarAtor.class
+com\mycompany\locadora_entrega0\JakartaRestConfiguration.class
+Model\Domain\Ator.class
+Controller\AlterarAtor.class
